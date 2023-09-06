@@ -93,4 +93,7 @@ Data shows that the top product category is electronics, meaning that probably b
 
 -------
 
+![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/81a704d8-bbf2-419c-ad29-cce2d188d27c)
+
+
 Link to Dashboard: [LINK](https://app.powerbi.com/view?r=eyJrIjoiMDNiMGQzMTQtODY4Mi00ZGFlLThhMDMtNTEzY2QzNGRkYzQwIiwidCI6IjQyMDA4ZmE2LWZmZjEtNGE5Ni1hZjY1LTdiODk5OTAyNDE4YyJ9)
