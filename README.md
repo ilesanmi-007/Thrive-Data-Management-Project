@@ -55,8 +55,7 @@ Remember, this project is not just about meeting the requirements but also about
 
 -------
 
-Data Management Project: "Data Insights Dashboard"
-
+# **My Insight**
 
 Thrive shopping mall is one of the biggest shopping mall in the world. Its uniqueness and drive to satisfy customers is topnotch. 
 
@@ -76,6 +75,17 @@ Analysis:
 4. Total Sales for Each Location
 5. Top 5 Customers
 
+![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/60e78dff-1054-4167-ad81-7ec5e2c7204e) 
 
-Insights:
+Top 5 Categories and their Respective Sales | Top 10 Product and their Respective Sales
+:-------------------:|:-------------------------------------:
+![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/bff7c7e7-87df-47b8-9ea3-79206afdb7ac) | ![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/3bf2cb9d-0678-474e-9a5b-f8eb0644ceec)
+
+Total Sales for Each Location | Top 5 Customers
+:----------------------: | :----------------------------------:
+![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/e927d113-d5a5-4659-81a8-e37d03f3a713) | ![image](https://github.com/ilesanmi-007/Thrive-Data-Management-Project/assets/68794860/301ea1b8-a015-4cc2-8d99-a0852039e12d)
+
+
+
+## *Insights:*
 Data shows that the top product category is electronics, meaning that probably based on the location of the mall, it is more known as an electronics shop. Hence, it is necessary to create more awareness on the neighboring community of their other products such as clothing, furniture and so on. This could also involve discounted promo and rearrangement of the mall to help customers see their other products.
