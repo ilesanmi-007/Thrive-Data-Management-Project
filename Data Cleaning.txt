@@ -1,0 +1,24 @@
+Data Management Project: "Data Insights Dashboard"
+
+
+Thrive shopping mall is one of the biggest shopping mall in the world. Its uniqueness and drive to satisfy customers is topnotch. 
+
+This dashboard provides information for the Thrive shopping mall. It shows basic relationships between data points and helps to answer basic questions about the mall's operations.
+
+Data Cleaning Process
+1. Named the last column: Location Type
+2. Added column named Month
+3. Created a month No column
+4. USed the Month No column to sort the column month. This is done to have an ordered column according to their month
+
+Analysis:
+
+1. Total Sales by Month
+2. Top 5 Categories and their Respective Sales
+3. Top 10 Product and their Respective Sales
+4. Total Sales for Each Location
+5. Top 5 Customers
+
+
+Insights:
+Data shows that the top product category is electronics, meaning that probably based on the location of the mall, it is more known as an electronics shop. Hence, it is necessary to create more awareness on the neighboring community of their other products such as clothing, furniture and so on. This could also involve discounted promo and rearrangement of the mall to help customers see their other products.

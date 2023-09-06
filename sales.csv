@@ -1,0 +1,101 @@
+Order ID,Order Date,Product Name,Product Category,Quantity,Price per Unit,Total Price,Customer Name,Customer Email,Shipping Address
+1001,2023-08-01,Smartphone,Electronics,2,399.99,799.98,John Smith,john.smith@email.com,123 Main St, City
+1002,2023-08-02,Laptop,Electronics,1,999.99,999.99,Emily Johnson,emily.johnson@email.com,456 Elm St, Town
+1003,2023-08-03,Headphones,Electronics,3,49.99,149.97,David Brown,david.brown@email.com,789 Oak St, Village
+1004,2023-08-04,Running Shoes,Clothing,2,79.99,159.98,Sarah Davis,sarah.davis@email.com,101 Pine St, Hamlet
+1005,2023-08-05,Tablet,Electronics,1,299.99,299.99,Michael Wilson,michael.wilson@email.com,234 Maple St, City
+1006,2023-08-06,Printer,Electronics,1,149.99,149.99,Linda Lee,linda.lee@email.com,567 Birch St, Town
+1007,2023-08-07,Backpack,Accessories,4,39.99,159.96,James Taylor,james.taylor@email.com,890 Oak St, Village
+1008,2023-08-08,Jeans,Clothing,2,49.99,99.98,Patricia Martinez,patricia.martinez@email.com,345 Cedar St, Hamlet
+1009,2023-08-09,Smartwatch,Electronics,1,199.99,199.99,Robert Harris,robert.harris@email.com,678 Pine St, City
+1010,2023-08-10,Keyboard,Electronics,1,59.99,59.99,Jennifer White,jennifer.white@email.com,123 Elm St, Town
+1011,2023-08-11,Desk,Office Furniture,1,249.99,249.99,William Johnson,william.johnson@email.com,456 Oak St, Village
+1012,2023-08-12,Tennis Racket,Sports,2,89.99,179.98,Mary Davis,mary.davis@email.com,101 Maple St, Hamlet
+1013,2023-08-13,Camera,Electronics,1,499.99,499.99,Joseph Brown,joseph.brown@email.com,234 Cedar St, City
+1014,2023-08-14,Blouse,Clothing,3,29.99,89.97,Nancy Wilson,nancy.wilson@email.com,567 Birch St, Town
+1015,2023-08-15,Running Shorts,Clothing,2,19.99,39.98,Charles Lee,charles.lee@email.com,890 Elm St, Village
+1016,2023-08-16,Desk Chair,Office Furniture,1,199.99,199.99,Susan Taylor,susan.taylor@email.com,345 Oak St, Hamlet
+1017,2023-08-17,Bluetooth Speaker,Electronics,1,79.99,79.99,Matthew Martinez,matthew.martinez@email.com,678 Pine St, City
+1018,2023-08-18,Sunglasses,Accessories,2,19.99,39.98,Anna Harris,anna.harris@email.com,123 Cedar St, Town
+1019,2023-08-19,Running Socks,Clothing,6,9.99,59.94,Andrew White,andrew.white@email.com,456 Oak St, Village
+1020,2023-08-20,External Hard Drive,Electronics,1,129.99,129.99,Elizabeth Davis,elizabeth.davis@email.com,101 Maple St, Hamlet
+1021,2023-08-21,Hiking Boots,Shoes,1,69.99,69.99,John Smith,john.smith@email.com,234 Cedar St, City
+1022,2023-08-22,Smart Speaker,Electronics,1,149.99,149.99,Emily Johnson,emily.johnson@email.com,567 Elm St, Town
+1023,2023-08-23,Running Jacket,Clothing,1,79.99,79.99,David Brown,david.brown@email.com,890 Oak St, Village
+1024,2023-08-24,Desk Organizer,Office Supplies,2,12.99,25.98,Sarah Davis,sarah.davis@email.com,345 Pine St, Hamlet
+1025,2023-08-25,Phone Case,Accessories,5,9.99,49.95,Michael Wilson,michael.wilson@email.com,678 Birch St, City
+1026,2023-08-26,Mouse,Electronics,3,19.99,59.97,Linda Lee,linda.lee@email.com,123 Main St, Town
+1027,2023-08-27,Running Hat,Accessories,2,14.99,29.98,James Taylor,james.taylor@email.com,456 Elm St, Village
+1028,2023-08-28,Printer Paper,Office Supplies,5,6.99,34.95,Patricia Martinez,patricia.martinez@email.com,789 Oak St, Hamlet
+1029,2023-08-29,Swimwear,Clothing,1,39.99,39.99,Robert Harris,robert.harris@email.com,101 Pine St, City
+1030,2023-08-30,Tablet Stand,Electronics,3,9.99,29.97,Jennifer White,jennifer.white@email.com,234 Maple St, Town
+1031,2023-08-31,Coffee Maker,Appliances,1,79.99,79.99,William Johnson,william.johnson@email.com,567 Elm St, Village
+1032,2023-09-01,Running Watch,Electronics,1,69.99,69.99,Mary Davis,mary.davis@email.com,789 Oak St, Hamlet
+1033,2023-09-02,Backpack,Accessories,2,49.99,99.98,Joseph Brown,joseph.brown@email.com,101 Pine St, City
+1034,2023-09-03,Desk Lamp,Office Supplies,3,19.99,59.97,Nancy Wilson,nancy.wilson@email.com,234 Maple St, Town
+1035,2023-09-04,Running Tights,Clothing,2,29.99,59.98,Charles Lee,charles.lee@email.com,456 Elm St, Village
+1036,2023-09-05,Bookshelf,Home Furniture,1,149.99,149.99,Susan Taylor,susan.taylor@email.com,678 Birch St, Hamlet
+1037,2023-09-06,Bluetooth Headset,Electronics,1,59.99,59.99,Matthew Martinez,matthew.martinez@email.com,789 Oak St, City
+1038,2023-09-07,Wristwatch,Accessories,2,29.99,59.98,Anna Harris,anna.harris@email.com,101 Pine St, Town
+1039,2023-09-08,Yoga Mat,Fitness,1,19.99,19.99,Andrew White,andrew.white@email.com,234 Maple St, Village
+1040,2023-09-09,External Monitor,Electronics,1,249.99,249.99,Elizabeth Davis,elizabeth.davis@email.com,567 Elm St, Hamlet
+1041,2023-09-10,Running Gloves,Accessories,3,12.99,38.97,John Smith,john.smith@email.com,678 Birch St, City
+1042,2023-09-11,Coffee Grinder,Appliances,1,29.99,29.99,Emily Johnson,emily.johnson@email.com,123 Main St, Town
+1043,2023-09-12,Tennis Balls,Sports,4,7.99,31.96,David Brown,david.brown@email.com,456 Elm St, Village
+1044,2023-09-13,Desk Calendar,Office Supplies,2,9.99,19.98,Sarah Davis,sarah.davis@email.com,789 Oak St, City
+1045,2023-09-14,Sneakers,Shoes,1,79.99,79.99,Michael Wilson,michael.wilson@email.com,101 Pine St, Hamlet
+1046,2023-09-15,Tablet Case,Accessories,2,14.99,29.98,Linda Lee,linda.lee@email.com,234 Maple St, Town
+1047,2023-09-16,Yoga Pants,Fitness,1,29.99,29.99,James Taylor,james.taylor@email.com,567 Elm St, Village
+1048,2023-09-17,Desk Chair Mat,Office Supplies,1,24.99,24.99,Patricia Martinez,patricia.martinez@email.com,678 Birch St, City
+1049,2023-09-18,Toaster,Appliances,1,39.99,39.99,Robert Harris,robert.harris@email.com,123 Main St, Hamlet
+1050,2023-09-19,Resistance Bands,Fitness,3,14.99,44.97,Jennifer White,jennifer.white@email.com,456 Elm St, Town
+1051,2023-09-20,Smart Thermostat,Home Appliances,1,129.99,129.99,William Johnson,william.johnson@email.com,789 Oak St, Village
+1052,2023-09-21,Running Backpack,Accessories,1,59.99,59.99,Mary Davis,mary.davis@email.com,101 Pine St, City
+1053,2023-09-22,Desk Fan,Appliances,2,19.99,39.98,Joseph Brown,joseph.brown@email.com,234 Maple St, Town
+1054,2023-09-23,Hiking Jacket,Outdoor Gear,1,99.99,99.99,Nancy Wilson,nancy.wilson@email.com,567 Elm St, Village
+1055,2023-09-24,Running Armband,Accessories,3,12.99,38.97,Charles Lee,charles.lee@email.com,678 Birch St, City
+1056,2023-09-25,Desk Organizer,Office Supplies,1,12.99,12.99,Susan Taylor,susan.taylor@email.com,123 Main St, Hamlet
+1057,2023-09-26,Blender,Appliances,1,49.99,49.99,Matthew Martinez,matthew.martinez@email.com,456 Elm St, Town
+1058,2023-09-27,Running Sunglasses,Accessories,1,24.99,24.99,Anna Harris,anna.harris@email.com,789 Oak St, Village
+1059,2023-09-28,Gym Bag,Fitness,1,29.99,29.99,Andrew White,andrew.white@email.com,101 Pine St, City
+1060,2023-09-29,External Keyboard,Electronics,1,39.99,39.99,Elizabeth Davis,elizabeth.davis@email.com,234 Maple St, Town
+1061,2023-09-30,Coffee Mug,Home Decor,4,7.99,31.96,John Smith,john.smith@email.com,567 Elm St, Village
+1062,2023-10-01,Cycling Helmet,Outdoor Gear,1,59.99,59.99,Emily Johnson,emily.johnson@email.com,678 Birch St, City
+1063,2023-10-02,Running Hydration Pack,Accessories,1,49.99,49.99,David Brown,david.brown@email.com,123 Main St, Hamlet
+1064,2023-10-03,Desk Clock,Office Supplies,2,9.99,19.98,Sarah Davis,sarah.davis@email.com,456 Elm St, Town
+1065,2023-10-04,Running GPS Watch,Electronics,1,99.99,99.99,Michael Wilson,michael.wilson@email.com,789 Oak St, Village
+1066,2023-10-05,Exercise Mat,Fitness,1,19.99,19.99,Linda Lee,linda.lee@email.com,101 Pine St, City
+1067,2023-10-06,Running Belt,Accessories,2,14.99,29.98,James Taylor,james.taylor@email.com,234 Maple St, Town
+1068,2023-10-07,Desk Chair Cushion,Office Supplies,1,19.99,19.99,Patricia Martinez,patricia.martinez@email.com,567 Elm St, Village
+1069,2023-10-08,Toaster Oven,Appliances,1,69.99,69.99,Robert Harris,robert.harris@email.com,678 Birch St, City
+1070,2023-10-09,Yoga Blocks,Fitness,2,12.99,25.98,Jennifer White,jennifer.white@email.com,123 Main St, Hamlet
+1071,2023-10-10,Smart Doorbell,Home Security,1,149.99,149.99,William Johnson,william.johnson@email.com,456 Elm St, Town
+1072,2023-10-11,Running Arm Sleeves,Accessories,1,9.99,9.99,Mary Davis,mary.davis@email.com,789 Oak St, Village
+1073,2023-10-12,Desk Pen Holder,Office Supplies,3,7.99,23.97,Joseph Brown,joseph.brown@email.com,101 Pine St, City
+1074,2023-10-13,Slow Cooker,Appliances,1,49.99,49.99,Nancy Wilson,nancy.wilson@email.com,234 Maple St, Hamlet
+1075,2023-10-14,Hiking Backpack,Outdoor Gear,1,79.99,79.99,Charles Lee,charles.lee@email.com,567 Elm St, Village
+1076,2023-10-15,Running Reflective Vest,Accessories,1,19.99,19.99,Susan Taylor,susan.taylor@email.com,678 Birch St, City
+1077,2023-10-16,Glassware Set,Home Decor,1,29.99,29.99,Matthew Martinez,matthew.martinez@email.com,123 Main St, Town
+1078,2023-10-17,Running Compression Socks,Accessories,2,14.99,29.98,Anna Harris,anna.harris@email.com,456 Elm St, Village
+1079,2023-10-18,Exercise Ball,Fitness,1,24.99,24.99,Andrew White,andrew.white@email.com,789 Oak St, City
+1080,2023-10-19,External Mouse,Electronics,1,19.99,19.99,Elizabeth Davis,elizabeth.davis@email.com,101 Pine St, Hamlet
+1081,2023-10-20,Coffee Table,Home Furniture,1,149.99,149.99,John Smith,john.smith@email.com,234 Maple St, City
+1082,2023-10-21,Cycling Gloves,Outdoor Gear,2,14.99,29.98,Emily Johnson,emily.johnson@email.com,567 Elm St, Town
+1083,2023-10-22,Running Water Bottle,Accessories,2,9.99,19.98,David Brown,david.brown@email.com,678 Birch St, Village
+1084,2023-10-23,Desk Chair Mat,Office Supplies,1,24.99,24.99,Sarah Davis,sarah.davis@email.com,123 Main St, Hamlet
+1085,2023-10-24,Sneakers,Shoes,1,79.99,79.99,Michael Wilson,michael.wilson@email.com,456 Elm St, City
+1086,2023-10-25,Tablet Case,Accessories,2,14.99,29.98,Linda Lee,linda.lee@email.com,789 Oak St, Town
+1087,2023-10-26,Yoga Pants,Fitness,1,29.99,29.99,James Taylor,james.taylor@email.com,101 Pine St, Village
+1088,2023-10-27,Desk Clock,Office Supplies,2,9.99,19.98,Patricia Martinez,patricia.martinez@email.com,234 Maple St, Hamlet
+1089,2023-10-28,Blender,Appliances,1,49.99,49.99,Robert Harris,robert.harris@email.com,567 Elm St, City
+1090,2023-10-29,Running Sunglasses,Accessories,1,24.99,24.99,Andrew White,andrew.white@email.com,678 Birch St, Town
+1091,2023-10-30,Gym Bag,Fitness,1,29.99,29.99,Elizabeth Davis,elizabeth.davis@email.com,123 Main St, Village
+1092,2023-10-31,External Keyboard,Electronics,1,39.99,39.99,John Smith,john.smith@email.com,456 Elm St, Hamlet
+1093,2023-11-01,Coffee Mug,Home Decor,4,7.99,31.96,Emily Johnson,emily.johnson@email.com,789 Oak St, City
+1094,2023-11-02,Cycling Helmet,Outdoor Gear,1,59.99,59.99,David Brown,david.brown@email.com,101 Pine St, Village
+1095,2023-11-03,Running Hydration Pack,Accessories,1,49.99,49.99,Sarah Davis,sarah.davis@email.com,234 Maple St, Town
+1096,2023-11-04,Desk Calendar,Office Supplies,2,9.99,19.98,Michael Wilson,michael.wilson@email.com,567 Elm St, Hamlet
+1097,2023-11-05,Running GPS Watch,Electronics,1,99.99,99.99,Linda Lee,linda.lee@email.com,678 Birch St, City
+1098,2023-11-06,Exercise Mat,Fitness,1,19.99,19.99,James Taylor,james.taylor@email.com,123 Main St, Village
+1099,2023-11-07,Running Belt,Accessories,2,14.99,29.98,Patricia Martinez,patricia.martinez@email.com,456 Elm St, Village
+1100,2023-11-08,Desk Chair Cushion,Office Supplies,1,19.99,19.99,Robert Harris,robert.harris@email.com,789 Oak St, City
