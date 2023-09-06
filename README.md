@@ -87,5 +87,10 @@ Total Sales for Each Location | Top 5 Customers
 
 
 
+
 ## *Insights:*
 Data shows that the top product category is electronics, meaning that probably based on the location of the mall, it is more known as an electronics shop. Hence, it is necessary to create more awareness on the neighboring community of their other products such as clothing, furniture and so on. This could also involve discounted promo and rearrangement of the mall to help customers see their other products.
+
+-------
+
+Link to Dashboard: [LINK](https://app.powerbi.com/view?r=eyJrIjoiMDNiMGQzMTQtODY4Mi00ZGFlLThhMDMtNTEzY2QzNGRkYzQwIiwidCI6IjQyMDA4ZmE2LWZmZjEtNGE5Ni1hZjY1LTdiODk5OTAyNDE4YyJ9)
